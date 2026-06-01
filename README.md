@@ -17,7 +17,7 @@ This Android app is designed to help people with color blindness. It detects the
 
 - Java
 - Android Studio
-- OpenCV (for color detection)
+- androidx.palette.graphics.Palette
 
 ---
 
