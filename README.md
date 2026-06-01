@@ -1,10 +1,10 @@
-# EyeC - Color Detector App 👚🎨
+# EyeC - Color Detector App 
 
 This Android app is designed to help people with color blindness. It detects the dominant color of clothing items from uploaded or captured images and organizes them by user-defined IDs.
 
 ---
 
-## 🧠 Features
+## Features
 
 - Detects **dominant color** from captured or uploaded images with **almost 100% accuracy**.
 - Stores only the **ID and metadata**, not the full image, to optimize storage.
@@ -13,7 +13,7 @@ This Android app is designed to help people with color blindness. It detects the
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - Java
 - Android Studio
@@ -21,7 +21,7 @@ This Android app is designed to help people with color blindness. It detects the
 
 ---
 
-## 📱 How to Use
+## How to Use
 
 1. Capture or upload a photo of clothing.
 2. View the detected color.
@@ -30,7 +30,7 @@ This Android app is designed to help people with color blindness. It detects the
 
 ---
 
-## 🔧 Installation
+## Installation
 
 To test the app:
 
@@ -39,11 +39,9 @@ To test the app:
 3. Grant necessary camera and storage permissions.
 ---
 
-## 📌 Project Status
+## Project Status
 
 ✅ Finished and tested.  
-📤 Uploaded to GitHub for portfolio and feedback.
-
 ---
 
 ## 🖋️ Author
